@@ -9,6 +9,6 @@ public class Celsius{
         C = sc.nextDouble();
 
         F = (C * 9/5) + 32;
-        System.out.print("The Result of "+C+" degress Celsius into Fahrenheit is "+F);
+        System.out.print("The Result of "+C+" degress Celsius into Fahrenheit is "+F+" degrees");
     }
 }
